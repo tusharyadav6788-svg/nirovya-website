@@ -1,16 +1,13 @@
-# Nirovya Website — Free Hosting
+# Nirovya Website
 
-This is a static HTML/CSS website designed for Nirovya.
+Responsive static website for Nirovya (`nirovya.in`).
 
 ## Files
-- index.html — website content
-- style.css — design
+- `index.html` — website + SEO/Organization structured data
+- `style.css` — responsive design
+- `assets/` — founder and logo images
 
-## Important before launch
-1. Replace `hello@nirovya.in` with your real email if needed.
-2. Replace the founder initials circle with a real founder photo later if desired.
-3. Review all health/product wording with your legal/regulatory advisor before publishing.
-4. Do not publish unverified medical claims, disease-treatment claims, or product efficacy claims.
+## Publish on GitHub Pages
+Upload/replace the files in the root of the `main` branch of the existing `nirovya-website` repository. Keep the `assets` folder and all files inside it.
 
-## Free publishing route
-GitHub Pages can host this static site for free. Then connect `nirovya.in` in GoDaddy DNS.
+The existing custom domain `nirovya.in` can remain unchanged.
